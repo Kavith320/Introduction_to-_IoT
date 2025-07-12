@@ -8,7 +8,7 @@ const char* password = "";
 // MQTT broker settings
 const char* mqttServer = "broker.hivemq.com";
 const int mqttPort = 1883;
-const char* mqttTopic = "university/iot/led";
+const char* mqttTopic = "index/iot/led";
 
 // LED pin
 const int ledPin = 2; // You can change this if needed
