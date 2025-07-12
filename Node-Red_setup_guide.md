@@ -38,8 +38,6 @@ v18.18.0
 Run this command in your terminal:
 
 bash
-Copy
-Edit
 npm install -g --unsafe-perm node-red
 This installs Node-RED globally.
 
@@ -47,14 +45,10 @@ This installs Node-RED globally.
 In the terminal, type:
 
 bash
-Copy
-Edit
 node-red
 You should see:
 
-arduino
-Copy
-Edit
+
 Server now running at http://127.0.0.1:1880/
 🌐 Step 5: Open Node-RED in Browser
 Open your browser
