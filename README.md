@@ -28,7 +28,7 @@ This repository contains materials and examples from a university session on bui
 
 ## 🧑‍🏫 Author
 
-This session is prepared for educational purposes at [Your University Name].
+This session is prepared for educational purposes 
 
 ---
 
